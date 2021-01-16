@@ -1,0 +1,62 @@
+
+    .sec-header{
+      font-size: 52px;
+      font-weight: 700;
+    }
+    .price{
+      font-size: 32px;
+      font-weight: 700;
+    }
+    .slight-blue{
+      color:#363958;
+      font-weight: 700;
+    }
+    .tomato-color{
+      color:#FA804C;
+      text-transform: uppercase;
+    }
+    .blue-btn{
+      background-color: #3745C7;
+      color: white;
+      padding: 10px;
+      border-radius: 15px;
+    }
+    .card-footer{
+      border: none;
+      background-color: white;
+    }
+.navbar-img{
+    width: 50%;;
+}
+ .caual-show-img{
+  width: 120%;
+ }
+.footer-img{
+    width: 50%;
+}
+.header-section-color{
+    background-color:#FFF9F4 ;
+    height: 80vh;
+    opacity: 1;
+}
+img{
+    width: 100%;
+}
+.card-img{
+  border-radius: 25px;
+  background-color: #F1F1F1;
+padding: 20px;
+}
+.image-modify{
+width: 80%;
+}
+.image-modify2{
+width: 60%;
+}
+.image-modify3{
+  width: 73%;
+}
+.card{
+  border: none;
+ 
+}
